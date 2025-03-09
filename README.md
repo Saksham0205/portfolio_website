@@ -1,16 +1,17 @@
 # portfolio_website
 
-A new Flutter project.
+A Flutter-based portfolio website showcasing the work of Saksham, a Flutter developer, startup founder, and AI innovator.
+
+## About
+This project highlights my skills in Flutter development, projects like Ajnabee and Reswipe, and achievements such as IIIT Delhi 25 under 25 Winner. Built with a modern, responsive design using Flutter and various packages.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saksham0205/portfolio_website.git

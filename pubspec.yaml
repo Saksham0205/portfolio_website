@@ -32,6 +32,9 @@ dependencies:
   particles_flutter: ^1.0.1
   glassmorphism: ^3.0.0
   rive: ^0.13.20
+  font_awesome_flutter:
+  responsive_framework: ^1.5.1
+  lottie:
 
 dev_dependencies:
   flutter_test:
